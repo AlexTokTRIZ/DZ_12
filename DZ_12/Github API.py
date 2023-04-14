@@ -1,6 +1,6 @@
 #Auth on Git
 #Поиск кода, использующего pygame
-token="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"
+token=""
 
 import requests
 import pprint
